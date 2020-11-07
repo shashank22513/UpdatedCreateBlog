@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC,EAAE,CAAA;EACH,KAAK,EAAC,GAAG;EACT,OAAO,EAAE,IAAI;EACb,WAAW,EAAC,GAAG;CAClB",
+    "sources": [
+        "createblog.scss"
+    ],
+    "names": [],
+    "file": "createblog.css"
+}
